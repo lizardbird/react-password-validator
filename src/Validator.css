@@ -20,3 +20,13 @@ input {
 input[type="text"], input[type="password"] {
   width: 200px;
 }
+
+.invalid {
+  border: 3px solid indianred;
+}
+.valid {
+  border: 3px solid lightgreen;
+}
+.waiting {
+  border: 3px solid gray;
+}
